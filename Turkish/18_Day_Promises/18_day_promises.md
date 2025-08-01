@@ -182,7 +182,7 @@ fetch(url)
 
 ## Async ve Await
 
-Async ve Await, promise yerine getirmenin zarif bir yoludur. Anlaşılması kolay ve yazması temiz.
+Async ve Await, promise yerine getirmenin anlaşılması kolay ve yazması temiz bir yoludur.
 
 ```js
 const square = async function (n) {
